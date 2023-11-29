@@ -1,0 +1,1843 @@
+university:
+ - university
+
+People:
+ - lee yong joon
+ - lee min suk
+ - lee jong eun
+ - lee geon-hwa
+ - choi young-hwan
+ - choi sung-hwan
+ - choi jin-min
+ - choi young-il
+ - zhang li
+ - zhang liqiang
+ - zhang xiaoqing
+ - zhang rui
+ - yang tai-her
+ - yang tai he
+ - lim yong-hoon
+ - lim ji hoon
+ - kim no eul
+ - kim mi sun
+ - kim hyung-gon
+ - kim young nam
+ - kim seong-hoon
+ - kim byunggyun
+ - kim kwang soo
+ - kim eun yeon
+ - kim dongho
+ - smith alexander d
+ - smith david
+ - smith kevin
+ - liu hongzhang
+ - liu yang
+ - jin jung-hong
+ - jin ju-hwan
+ - cooper timothy patrick
+ - kagerer hans jürgen
+ - kagerer hans-jürgen
+ - scott dr ian richard
+ - scott ian richard
+ - yamaguchi michiko
+ - yamaguchi yoshinobu
+ - yamaguchi kenichi
+ - johnson richard lee
+ - kevin hans melsheimer
+ - kevin lee friesth
+ - wang; yonghua
+ - wang; ling
+ - wang; sen
+ - chan wing hong
+ - chan kin sang tony
+ - chan tiankai
+
+
+rolls-royce:
+ - rolls-royce north american technologies
+ - rolls-royce plc
+ - rolls-royce
+ - rolls-royce power engineering plc
+
+kraftanlagen:
+ - kraftanlagen energies & services gmbh
+ - kraftanlagen münchen gmbh
+ - kraftanlagen muenchen gmbh
+
+könig:
+ - könig bernhard
+ - könig metall gmbh & co kg
+
+nuovo:
+ - nuovo pignone tecnologie srl
+ - nuovo pignone tecnologie - srl
+ - nuovo pignone srl
+ - nuovo pignone spa
+
+schlumberger:
+ - schlumberger canada
+ - schlumberger technology bv
+ - schlumberger technology
+
+chubu:
+ - chubu electric powerinorated
+ - chubu electric power co
+ - chubu electric power miraiz co
+ - chubu electric power co
+
+toshiba:
+ - toshiba energy systems & solutions
+ - toshiba materials co
+ - toshiba lifestyle products & services
+ - toshiba
+ - toshiba energy system&solution
+ - toshiba hokuto electronics
+ - toshiba infrastructure systems & solution
+ - toshiba memory
+ - toshiba tec kabushiki kaisha
+ - toshiba tec
+ - toshiba carrier
+ - toshiba home appliances
+ - toshiba lighting & technology
+ - toshiba consumer electronics holdings
+
+rohm:
+ - rohm co
+ - rohm & haas electronic materials cmp holdings
+ - rohm semiconductors usa
+
+mitsubishi:
+ - mitsubishi electric
+ - mitsubishi electriccentre europe bv
+ - mitsubishi materials
+ - mitsubishi heavy ind
+ - mitsubishi chemical
+ - mitsubishi chem infratec co
+ - mitsubishi power
+ - mitsubishi power americas
+ - mitsubishi paper mills
+ - mitsubishi chemical holdings
+ - mitsubishi heavythermal systems
+ - mitsubishi hitachi power systems
+ - mitsubishi hitachi power systems europe gmbh
+ - mitsubishi heavyair-conditioning & refrigeration
+ - mitsubishi materials techno
+ - mitsubishi heavyautomotive thermal systems co
+ - mitsubishi plastics infratec co
+ - mitsubishi plastics
+ - mitsubishi heavy
+ - mitsubishi rayon co
+
+german aerospace center:
+ - deutsches zentrum für luft- und raumfahrt ev
+ - deutsches zentrum für luft-und raumfahrt ev
+ - deutsches zentrum fuer luft- und raumfahrt ev
+
+kaneka:
+ - kaneka
+ - kaneka foam plastics co
+
+microsoft:
+ - microsoft technology licensing
+ - microsoft
+
+youcheng energy technology:
+ - jiangsu xinjia youcheng energy technology co
+ - jiangsu youcheng cnc technology co
+
+
+sinochem:
+ - shenyang sinochem agrochemicals r & d co
+
+mahle:
+ - mahle international gmbh
+ - mahle behr thermal systems (japan)
+ - mahle behr gmbh & co kg
+
+cooper:
+ - cooper technologies
+
+lenovo:
+ - lenovo global technology (united states)
+ - lenovo (singapore) pte
+
+zortea:
+ - zortea gebäudetechnik gmbh
+ - zortea rembert
+
+magaldi:
+ - magaldi power spa
+ - magaldi industrie srl
+ - magaldi power
+
+siemens:
+ - siemens gamesa renewable energy gmbh & co kg
+ - siemens energy
+ - siemens gamesa renewable energy innovation & technology sl
+ - siemens energy global gmbh & co kg
+ - siemens gamesa renewable energy a/s
+ - siemens aktiengesellschaft
+ - siemens mobility gmbh
+ - siemens gamesa renewable energy gmbh & co
+ - siemens schweiz ag
+ - siemens healthcare gmbh
+ - siemens energy as
+ - siemens wind power gmbh & co kg
+ - siemens aktiengesellshcaft
+ - siemens
+ - siemens concentrated solar power
+ - siemens vai metals technologies gmbh
+ - siemens ag
+
+delta:
+ - delta development team
+ - delta t
+ - delta t gesellschaft für medizintechnik mbh
+ - delta t gesellschaft fuer medizintechnik mbh
+ - delta recover
+
+sumitomo:
+ - sumitomo heavy
+ - sumitomo chemical
+ - sumitomo bakelite co
+ - sumitomo heavy ind
+ - sumitomo mitsui construction co
+ - sumitomo electric
+ - sumitomo wiring systems
+ - sumitomo chemical co
+ - sumitomo electric ind
+ - sumitomo wiring syst
+ - sumitomo osaka cement co
+ - sumitomo forestry co
+ - sumitomo electric
+
+
+xi'an:
+ - xi'an tpri energy conservation technology co
+ - xi'an tpri energy conservation technology co
+
+hitachi:
+ - hitachi high-tech
+ - hitachi energy switzerland ag
+ - hitachi
+ - hitachi global life solutions
+ - hitachi industrial equipment systems co
+ - hitachi chemical
+ - hitachi chemical co
+ - hitachi plant mechanics co
+ - hitachi metals
+ - hitachi high-technologies
+ - hitachi appliances
+ - hitachi automotive systems
+ - hitachi plant technologies
+ - hitachi power europe gmbh
+
+man:
+ - man energy solutions se
+ - man truck & bus se
+
+battelle:
+ - battelle savannah river alliance
+ - battelle energy alliance
+
+kabushiki:
+ - kabushiki kaisha toshiba
+ - kabushiki kaisha kobe seiko sho (kobe steel )
+ - kabushiki kaisha toyota jidoshokki
+ - kabushiki kaisha toyota chuo kenkyusho
+
+cea:
+ - commissariat à l'energie atomique et aux energies alternatives
+ - commissariat à l'énergie atomique et aux énergies alternatives
+ - commissariat a l'energie atomique et aux energies alternatives
+ - commissariat à l''énergie atomique et aux énergies alternatives
+ - commissariat à i'energie atomique et aux énergies alternatives
+ - commissariat à i'énergie atomique et aux énergies alternatives
+ - commissariat a l'energie atomique et aux ene alt
+
+panasonic:
+ - panasonic holdings
+ - panasonic
+ - panasonic ip management
+ - panasonic intellectual property management co
+ - panasonic healthcare holdings co
+ - panasonic electric works co
+
+fujifilm:
+ - fujifilm
+ - fujifilm
+ - fujifilm toyama chemical co
+
+
+xiaomi:
+ - beijing xiaomi mobile software co
+
+
+beijing terasolar energy technologies co
+ - beijing terasolar energy technologies co
+ - beijing terasolar energy technologies co
+
+skibo:
+ - skibo energy systems
+ - skibo systems
+
+hamilton:
+ - hamilton sundstrand
+ - hamilton sunstrand
+ - hamilton sundstrand space systems international
+ - hamilton sundstrand space systems internatl
+
+lg:
+ - lg energy solution
+ - lg electronics
+ - lg chem
+
+johnson controls:
+ - johnson controls tyco ip holdings llp
+ - johnson controls technology
+ - johnson ip holding
+ - johnson controls technology co
+ - johnson research & development co
+ - johnson controls hitachi air conditioning technology (hongkong)
+ - johnson screens
+
+danfoss:
+ - danfoss silicon power gmbh
+ - danfoss a/s
+
+mercury:
+ - mercury energy sl
+ - mercury plastics
+
+electrolux:
+ - electrolux appliances aktiebolag
+ - electrolux home products
+ - electrolux home productsnv
+ - electrolux home productsn v
+
+phase:
+ - phase change energy solutions
+ - phase change storage
+
+samsung:
+ - samsung electronics co
+ - samsung display co
+ - samsung sdi co
+
+daikin:
+ - daikin
+ - daikin europe nv
+ - daikin ind
+ - daikin applied systems co
+
+viessmann:
+ - viessmann climate solutions se
+ - viessmann werke gmbh co kg
+ - viessmann werke gmbh & co kg
+ - viessmann kühlsysteme gmbh
+ - viessmann kältetechnik gmbh
+ - viessmann eis-energiespeicher gmbh
+
+clean:
+ - clean planet
+ - clean resources pte
+ - clean power solutions
+ - clean diesel technologies
+ - clean diesel technologies(cdti)
+ - clean energy fuels
+ - clean urban energy
+
+hydro:
+ - hydro extruded solutions as
+ - hydro aluminium rolled products gmbh
+
+truma:
+ - truma gerätetechnik gmbh & co kg
+ - truma geraetechnik gmbh & co kg
+
+kelvin:
+ - kelvin thermal energy
+ - kelvin thermotech
+ - kelvin storage
+ - kelvin storage canada
+ - kelvin storage technologies
+ - kelvin storage technology
+
+ihi:
+ - ihi
+ - ihi plant services
+
+ge:
+ - ge aviation systems
+ - ge intelligent platforms
+ - ge jenbacher gmbh & co og
+
+ricoh:
+ - ricoh
+ - ricoh co
+
+rheem:
+ - rheem manufacturing
+ - rheem australia pty
+
+chongqing:
+ - chongqing midea general refrigeration equipment co
+ - chongqing jinkang new energy vehicle co
+
+midea:
+ - midea group co
+ - midea group wuhan refrigeration equipment co
+
+huawei:
+ - huawei technologies co
+ - huawei digital power technologies co
+
+canon:
+ - canon kabushiki kaisha
+ - canon optron
+ - canon
+ - canon production printing holding bv
+
+basf:
+ - basf se
+ - basf schweiz ag
+ - basf (china)
+
+cold:
+ - cold chain technologies
+ - cold cube co
+
+national:
+ - national technology & engineering solutions of sandia
+ - national machine group
+ - national electric vehicle sweden ab
+ - national research and development agency japan aerospace exploration agency
+ - national agriculture and food research organization
+
+aac:
+ - aac technologies (nanjing) co
+ - aac acoustic technologies (shenzhen) co
+
+gd:
+ - gd midea heating & ventilating equipment co
+ - gd midea air-conditioning equipment co
+
+totalenergies:
+ - totalenergies onetech
+ - totalenergies renewables
+
+us:
+ - us army devcom army research laboratory
+ - us army combat capabilities development command army research laboratory
+ - us micropower
+
+neu:
+ - neu kimya anonim sirketi
+ - neu ki̇mya anoni̇m şi̇rketi̇
+
+dow:
+ - dow global technologies
+ - dow toray co
+ - dow corning toray co
+
+
+nio:
+ - nio technology (anhui) co
+ - nio usa
+
+denso:
+ - denso
+ - denso international america
+ - denso orartion
+
+toyota:
+ - toyota
+ - toyota motor
+ - toyota jidosha kabushiki kaisha
+ - toyota motor engineering & manufacturing north america
+ - toyota tsusho
+ - toyota home kk
+ - toyota housing
+ - toyota boshoku
+
+firma:
+ - firma handlowo uslugowa urzadzenia chlodnicze - marek czamara
+ - firma handlowo usługowa urządzenia chłodnicze - marek czamara
+
+ - univ of miyazaki
+
+nippon:
+ - nippon sigmax kk
+ - nippon shokubai co
+ - nippon steel chemical & material co
+ - nippon steel
+ - nippon handa kk
+ - nippon b ee c kk
+ - nippon paint holdings co
+ - nippon flour mills co
+ - nippon steel & sumitomo metal
+ - nippon steel & sumitomo metal
+ - nippon electric glass co
+ - nippon kayaku co
+ - nippon steel & sumikin engineering co
+ - nippon light metal
+ - nippon yusen kk
+ - nippon thermostat co
+ - nippon valqua ind
+ - nippon steel engineering co
+
+sk:
+ - sk kaken co
+ - sk hynix
+ - sk innovation co
+
+oci:
+ - oci
+ - oci co
+
+ngk:
+ - ngk insulators
+ - ngk spark plug co
+ - ngk adrec co
+
+aisan:
+ - aisan ind co
+ - aisan kogyo kabushiki kaisha
+
+osaka:
+ - osaka gas chem kk
+ - osaka gas chemicals co
+ - osaka gas co
+ - osaka city univ
+ - osaka univ
+
+emerson:
+ - emerson climate technologies
+ - emerson electric co
+
+gm:
+ - gm global technology operations
+ - gm cruise holdings
+ - gm global technology
+
+yazaki:
+ - yazaki
+ - yazaki energy system
+ - yazaki systems technologies gmbh
+
+nederlandse:
+ - nederlandse organisatie voor toegepast-natuurwetenschappelijk onderzoek tno
+ - nederlandse organisatie voor toegepast- natuurwetenschappelijk onderzoek tno
+ - nederlandse organisatie voor toegepast-
+ - nederlandse organisatie voor toegepast -
+ - nederlandse organisatie voor teogepastnatuurwetenschappelijk onderzoek tno
+ - nederlandse organisatie voor toegepastnatuurwetenschappelijk onderzoek tno
+ - nederlandse organisatie voor toegepast-
+ - nederlandse organisatie voor toegepast -natuurwetenschappelijk onderzoek tno
+
+fraunhofer-gesellschaft:
+ - fraunhofer-gesellschaft zur förderung der angewandten forschung ev
+ - fraunhofer-gesellschaft zur förderung der angewandten forschung e v
+ - fraunhofer-gesellschaft zur förderung der angewandten forschung ev
+ - fraunhofer-gesellschaft zur forderung der angewandten forschung ev
+
+nomen:
+ - nomen calvet; juan eusebio
+ - nomen calvet juan eusebio
+
+stiesdal:
+ - stiesdal storage a/s
+ - stiesdal storage technologies a/s
+
+messer:
+ - messer austria gmbh
+ - messer se & co kgaa
+ - messer group gmbh
+
+nissin:
+ - nissin electric co
+ - nissin foods holdings co
+
+shell:
+ - shell internationale research maatschappij bv
+ - shell usa
+ - shell oil
+
+sharp:
+ - sharp kabushiki kaisha
+ - sharp
+
+jgc:
+ - jgc
+ - jgc japan
+
+world:
+ - world one hi-tech
+ - world room bliss:kk
+ - world courier management
+
+inoac:
+ - inoac
+ - inoac housing & construction materials co
+
+state:
+ - state atomic energy"rosatom"
+ - state atomimic energy"rosatom"
+ - state grid jiangsu electric power co
+ - state grid jiangsu electric power conanjing power supply
+ - state gridof china
+
+centre:
+ - centre national de la recherche scientifique
+ - centre for renewable energy sources and saving foundation (cres)
+ - centre national de la recherche scientifique (cnrs)
+ - centre national de la recherche scientif
+ - centre national de la recherche scientifique (etablissement public national à caractère scientifique et technologique)
+
+ecole:
+ - ecole nationale superieure de chimie de lille
+ - ecole polytechnique federale de lausanne (epfl)
+ - ecole nationale superieure des mines d'albi-carmaux
+
+orano:
+ - orano chimie-enrichissement
+ - orano cycle
+
+universite:
+ - universite de lille
+ - universite de la reunion
+ - universite de nantes
+ - universite cergy-pontoise
+ - universite toulouse iii - paul sabatier
+ - universite de mons
+ - universite libre de bruxelles
+ - universite d'aix-marseille
+ - universite de lorraine
+ - universite de haute alsace (etablissement public à caractère scientifique culturel et professionnel)
+
+dtp:
+ - dtp thermoelectrics
+ - dtp
+
+terrestrial:
+ - terrestrial energy
+ - terrestrial energy usa
+
+toho:
+ - toho gas co
+ - toho holdings co
+ - toho titanium co
+
+united:
+ - united states of america as represented by the secretary of the army
+ - united renewable energy
+ - united states of america as represented by the secretary of the air force
+ - united states department of energy
+
+haier:
+ - haier smart home co
+ - haier us appliance solutions
+ - haier group
+ - haier us applicance solutions
+
+qingdao:
+ - qingdao haier air conditioner general
+ - qingdao haier air-conditioning electronic co
+ - qingdao bailunwan technology co
+ - qingdao shazhi textile technology co
+ - qingdao haier air-conditioing electronic co
+ - qingdao economic and technological development district haier water heater co
+
+echogen:
+ - echogen power systems (delaware)
+ - echogen power systems
+
+kawasaki:
+ - kawasaki heavy ind
+ - kawasaki jukogyo kabushiki kaisha
+ - kawasaki kasei chem
+
+daimler:
+ - daimler truck ag
+ - daimler ag
+
+meiji:
+ - meiji univ
+ - meiji co
+
+sony:
+ - sony semiconductor solutions
+ - sony
+
+renault:
+ - renault sas
+ - renault tracks
+
+tokyo:
+ - tokyo yogyo co
+ - tokyo electron
+ - tokyo gas co
+ - tokyo denki univ
+ - tokyo electric power co :the
+ - tokyo univ of science
+
+mitsui:
+ - mitsui e & s machinery co
+ - mitsui eng & shipbuild co
+ - mitsui engineering & shipbuilding co
+
+honeywell:
+ - honeywell international
+ - honeywell technologies sarl
+
+oh:
+ - oh young han
+ - oh seoung jae
+ - oh stephen sang geun
+ - oh sung jin
+ - oh young un
+
+abb:
+ - abb schweiz ag
+ - abb power grids switzerland ag
+ - abb technology ag
+ - abb research
+
+technische:
+ - technische universität berlin
+ - technische universiteit eindhoven
+ - technische universität wien
+ - technische universität chemnitz
+ - technische universitaet wien
+ - technische universitaet muenchen
+ - technische universität hamburg-harburg
+
+tokai:
+ - tokai national higher education & research system
+ - tokai univ
+
+david:
+ - david srl
+ - david vendeirinho
+ - david alan mcbay
+
+lumenion:
+ - lumenion gmbh
+ - lumenion ag
+
+faurecia:
+ - faurecia emissions control technologies usa
+ - faurecia emissions control technologies germany gmbh
+
+aisin:
+ - aisin
+ - aisin chemical co
+ - aisin aw co
+ - aisin seiki co
+ - aisin seiki kabushiki kaisha
+
+pregis:
+ - pregis new materials (shenzhen) co
+ - pregis new materials (shenzhen) pte
+
+aichi:
+ - aichi steel works
+ - aichi steel
+
+nok:
+ - nok
+ - nok klueber co
+ - nok kluber kk
+
+marvell:
+ - marvell asia pte
+ - marvell world trade
+
+takagi:
+ - takagi shinya
+ - takagi reiki kk
+
+université:
+ - université de la réunion
+ - université de lille
+ - université claude bernard lyon 1
+ - université toulouse iii-paul sabatier
+ - université de mons
+ - université libre de bruxelles
+ - université d'aix-marseille
+ - université d''aix-marseille
+
+wuhan:
+ - wuhan gewuganzhi information technology co
+ - wuhan jianghechang energy and technology co
+
+takenaka:
+ - takenaka komuten co
+ - takenaka doboku co
+
+suzhou:
+ - suzhou mubite technology co
+ - suzhou hongni new-material technologyco
+ - suzhou hongni new-material technology co
+
+cooler master:
+ - cooler master co
+ - cooler master technology
+
+double:
+ - double m properties ab
+ - double cool
+
+stiebel:
+ - stiebel eltron gmbh & co kg
+ - stiebel eltron gmbh & cokg
+
+fuji:
+ - fuji electric co
+ - fuji xerox co
+ - fuji polymerco
+ - fuji heavy ind
+ - fuji energy co
+
+john cockerill:
+ - john cockerill renewables sa
+ - john cockerill sa
+
+graphite:
+ - graphite energy (assets) pty
+ - graphite solar power pty
+ - graphite energy nv
+
+general electric:
+ - general electric
+ - general electric technology gmbh
+ - general electric co <ge>
+
+sanyo:
+ - sanyo chem ind
+ - sanyo electric co
+ - sanyo chemical
+
+hyundai:
+ - hyundai motor
+ - hyundai motor co
+
+kia:
+ - kia
+ - kia motors
+
+exxonmobil:
+ - exxonmobil chemical patents
+ - exxonmobil research and engineering
+ - exxonmobil technology and engineering
+ - exxonmobil upstream research
+
+showa:
+ - showa denko materials co
+ - showa denko kk
+ - showa denko packaging co
+ - showa kde co
+
+wang:
+ - wang quanling
+ - wang hao
+
+rwe:
+ - rwe generation se
+ - rwe power ag
+
+northrop:
+ - northrop grumman systems
+ - northrop grumman innovation systems
+
+zehnder:
+ - zehnder group international ag
+ - zehnder verkaufs- & verwaltungs ag
+ - zehnder verkaufs- und verwaltungs ag
+
+evonik:
+ - evonik functional solutions gmbh
+ - evonik operations gmbh
+ - evonik degussa gmbh
+
+airbus:
+ - airbus defence and space sas
+ - airbus operations gmbh
+
+sekisui:
+ - sekisui chem co
+ - sekisui house
+ - sekisui plastics co
+ - sekisui chemical co
+
+respireco:
+ - respireco spolka z ograniczona odpowiedzialnoscia
+ - respireco spółka z ograniczoną odpowiedzialnością
+
+gkn:
+ - gkn sinter metals engineering gmbh
+ - gkn aerospace sweden ab
+
+fundación:
+ - fundación centro investigación cooperativa de energías alternativas cic enerrgigune fundazioa
+ - fundación centro de investigación cooperativa de energías alternativas cic energigune fundazioa
+ - fundación cener
+ - fundación tekniker
+ - fundación centro de investigación cooperativa de energías alternativas cic ene
+ - fundación tecnalia research & innovation
+
+synhelion:
+ - synhelion ag
+ - synhelion sa
+
+j&g:
+ - j&g
+ - j&g co
+
+krones:
+ - krones aktiengesellschaft
+ - krones ag
+
+shimizu:
+ - shimizu
+ - shimizu masami
+
+cnh:
+ - cnh industrial italia spa
+ - cnh (china) management co
+ - cnh industrial america
+
+orion:
+ - orion mach co
+ - orion machinery co
+
+konvekta:
+ - konvekta aktiengesellschaft
+ - konvekta aktiengesellschaft (ag)
+
+
+louisiana:
+ - louisiana eco green
+ - louisiana eco green
+
+b medical systems:
+ - b medical systems sárl
+ - b medical systems sà rl
+
+dr:
+ - dr ing hc f porsche aktiengesellschaft
+ - dr patrick joseph glynn
+
+tohoku:
+ - tohoku techno arch co
+ - tohoku univ
+ - tohoku boring kk
+
+centro:
+ - centro de física de materiales
+ - centro de investigaciones energéticas medioambientales y tecnológicas (ciemat)
+
+consejo:
+ - consejo superior de investigaciones cientificas mp
+ - consejo superior de investigaciones científicas
+ - consejo superior de investigaciones cientificas
+
+shandong:
+ - shandong zhangqiu blower co
+ - shandong rongan electronic science & technology co
+ - shandong rongan electronic science and technology co
+
+ifp:
+ - ifp energies nouvelles
+ - ifp énergies nouvelles
+
+linde:
+ - linde gmbh
+ - linde aktiengesellschaft
+ - linde ag
+
+american:
+ - american battery solutions
+ - american aerogel
+
+bright:
+ - bright energy storage technologies llp
+ - bright energy storage technolgies llp
+ - bright generation holdings
+
+kobayashi:
+ - kobayashi remi
+ - kobayashi yoshiyuki
+ - kobayashi atsuyuki
+
+mar-bud:
+ - mar-bud spółka z ograniczoną odpowiedzialnością
+ - mar-bud spolka z ograniczona odpowiedzialnoscia
+ - mar-bud spólka z ograniczona odpowiedzialnoscia
+ - mar-bud społka z ograniczoną odpowiedzialnością
+
+eaton:
+ - eaton intelligent power
+ - eaton
+
+aqua:
+ - aqua kk
+ - aqua noel co
+
+premier:
+ - premier energy holdings
+ - premier autoclaves service and solutions
+
+supercritical:
+ - supercritical storage
+ - supercritical technologies
+
+ibm:
+ - ibm (china) investment
+ - ibm united kingdom
+ - ibm (china) co
+ - ibm research gmbh
+
+guangdong:
+ - guangdong midea white home appliance innovation technology center co
+ - guangdong midea white home appliance technology innovation center co
+
+toyo:
+ - toyo ink sc holdings co
+ - toyo engineering
+ - toyo engineer co
+ - toyo eng works
+ - toyo netsu kogyo kk
+
+intelligent:
+ - intelligent energy
+ - intelligent platforms
+
+boeing:
+ - boeing co
+ - boeing co:the
+ - the boeing
+
+alley:
+ - alley tony
+ - alley tony randolph
+
+vito:
+ - vito nv
+ - vito
+
+tosoh:
+ - tosoh
+ - tosoh f-tech
+
+terrafore:
+ - terrafore technologies
+ - terrafore
+
+sunwell:
+ - sunwell engineering
+ - sunwell engineering co
+
+hochschule:
+ - hochschule für angewandte wissenschaften münchen
+ - hochschule für technik u wirtschaft des saarlandes
+
+chen:
+ - chen zhiwei
+ - chen jianliang
+ - chen yuqi
+
+pioneer:
+ - pioneer electronic
+ - pioneer energy (jiangsu) co
+
+asahi:
+ - asahi kasei homes co
+ - asahi kasei e-materials
+
+aramco:
+ - aramco services
+ - aramco americas
+
+cummins:
+ - cummins power generation
+ - cummins emission solutions
+
+commercial:
+ - commercial energy saving plus
+ - commercial energy savings plus
+
+henkel:
+ - henkel ag & co kgaa
+ - henkel ip & holding gmbh
+ - henkel (china) co
+
+bayerische:
+ - bayerische motoren werke aktiengesellschaft
+ - bayerische motoren werke
+
+gentherm:
+ - gentherm inorated
+ - gentherm gmbh
+
+raytheon:
+ - raytheon
+ - raytheon co
+
+hutchinson:
+ - hutchinson
+ - hutchinson sa
+
+jiangxi:
+ - jiangxi xinborui tech co
+ - jiangxi xinborui technology co
+
+schunk:
+ - schunk carbon technology gmbh
+ - schunk kohlenstofftechnik gmbh
+ - schunk hoffmann carbon technology ag
+
+agency:
+ - agency for science technology and research
+ - agency for defense development
+
+carbon:
+ - carbon clean technologies gmbh
+ - carbon capture america
+
+advanced:
+ - advanced steam technology
+ - advanced micro devices
+ - advanced cooling technologies
+
+lawrence:
+ - lawrence livermore national security
+ - lawrence livermore national laboratory
+
+schierack:
+ - schierack horst
+ - schierack green technology gmbh
+
+ariston:
+ - ariston spa
+ - ariston thermo spa
+
+mol:
+ - mol magyar olaj- és gázipari nyilvánosan müködö részvénytársaság
+ - mol magyar olaj- és gázipari nyilvánosan működő részvénytársaság
+
+kyoto:
+ - kyoto group as
+ - kyoto univ
+
+kunshan:
+ - kunshan silaimu energy-saving technology co
+ - kunshan jue-chung electronics co
+
+sun:
+ - sun buckets
+ - sun electric digital stream
+ - sun electric pte
+ - sun chemical
+ - sun drum solar
+ - sun hydrogen
+
+eth:
+ - eth zürich
+ - eth zurich
+
+pratt:
+ - pratt & whitney canada
+ - pratt & whitney rocketdyne
+
+sunlight:
+ - sunlight aerospace
+ - sunlight power
+
+eos:
+ - eos energy technology holdings
+ - eos energy storage
+ - eos sp z oo
+
+coldinnov:
+ - coldinnov international development
+ - coldinnov
+
+guangzhou:
+ - guangzhou herui energy conservation and environmental protection technology co
+ - guangzhou holdstorm science & technology co
+
+universitat:
+ - universitat de lleida
+ - universitat politècnica de catalunya
+ - universitat de barcelona
+
+oy:
+ -  oy
+ - oy halton group
+
+valeo:
+ - valeo systemes thermiques
+ - valeo autosystemy sp z oo
+ - valeo systemes thermiques-ths
+ - valeo japan co
+ - valeo systèmes thermiques
+ - valeo systems thermiques
+ - valeo systemes de controle moteur
+ - valeo systèmes de contrôle moteur
+
+università:
+ - università degli studi di roma "la sapienza"
+ - università degli studi di padova
+ - università degli studi di udine
+
+karlsruher:
+ - karlsruher institut für technologie
+ - karlsruher institut fuer technologie
+
+melink:
+ - melink solar & geo
+ - melink
+
+ebara:
+ - ebara
+ - ebara refrigeration equipment & systems co
+
+mestek:
+ - mestek
+ - mestek machinery
+ - mestek
+
+tsuchiya:
+ - tsuchiya tokushu nokigu seisakusho:kk
+ - tsuchiya dairy equipment manufacturing co
+
+l'air:
+ - l'air liquide societe anonyme pour l'etude et l'exploitation des procedes georges claude
+ - l'air liquide société anonyme pour l'etude et l'exploitation des procédés georges claude
+ - l'air liquide societe anonyme pour l'etude et l'eploitation des procedes georges claude
+ - l'air liquide societe annonyyme pour i'exploitatio des proccedes georges claude
+ - l'air liquidesociete anonyme pour l'etude et l'exploitation des procedes georges claude
+
+viking:
+ - viking cold solutons
+ - viking cold solutions
+
+nec:
+ - nec
+ - nec facilities
+ - nec laboratories america
+
+qinghai:
+ - qinghai enesoon science & technology co
+ - qinghai enesoon new material technology & science co
+ - qinghai enesoon new materials
+
+hyfra:
+ - hyfra lndustriekühlanlagen gmbh
+ - hyfra industriekühlanlagen gmbh
+
+jx:
+ - jx nippon mining & metals
+ - jx nippon oil & energy
+
+soken:
+ - soken
+ - soken tecnix co
+ - soken technics kk
+
+f consultant:
+ - f consultant:kk
+ - f consultant co
+
+ishii:
+ - ishii keiko
+ - ishii iron works co
+
+marelli:
+ - marelli
+ - marelli cabin comfort japan
+
+kyungdong navien:
+ - kyungdong navien co
+ - kyungdong navien co
+
+wagner:
+ - wagner thomas franz
+ - wagner & co solartechnik gmbh
+
+anhui:
+ - anhui propellent heat transfer technology co
+ - anhui xinen technology co
+
+future energy:
+ - future energy source
+ - future energy
+
+air:
+ - air liquide medical sa
+ - air international (us)
+ - air innovations
+ - air international thermal systems
+ - air liquide deutschland gmbh
+ - air international
+ - air liquide process & construction
+ - air products and chemicals
+
+furukawa:
+ - furukawa automotive systems
+ - furukawa electric co :the
+ - furukawa electric co
+
+toppan:
+ - toppan forms co
+ - toppan printing co
+ - toppan printing co
+
+jfe:
+ - jfe steel
+ - jfe engineering
+
+seiko:
+ - seiko epson
+ - seiko denki co
+
+spx:
+ - spx flow technology korea co
+ - spx
+
+gogoro:
+ - gogoro
+ - gogoro taiwan
+
+thermo:
+ - thermo king
+ - thermo integra sdn bhd
+ - thermo store solution tec ug
+
+cockerill:
+ - cockerill maintenance & lngenierie sa
+ - cockerill maintenance & ingéniérie sa
+ - cockerill maintenance & ingenierie sa
+ - cockerill maintenance & ingénierie sa
+
+schmitz:
+ - schmitz oliver
+ - schmitz johannes
+
+ube:
+ - ube material
+ - ube ind
+ - ube nitto kasei co
+
+origin:
+ - origin
+ - origin electric co
+ - origin electric
+
+koyo:
+ - koyo thermo systems co
+ - koyo thermo system kk
+
+murata:
+ - murata manufacturing co
+ - murata machinery
+ - murata mfg co
+
+crrc:
+ - crrc shijiazhuang co
+ - crrc shijiazhuang co
+ - crrc sjijiazhuang co
+
+matsumoto:
+ - matsumoto tadashi
+ - matsumoto hatsukazu
+
+saipem:
+ - saipem spa
+ - saipem sa
+
+yeda:
+ - yeda research and development co
+ - yeda research development co
+
+tata:
+ - tata consultancyservices
+ - tata consultancy services
+ - tata steel uk
+
+etablissementen:
+ - etablissementen franz colruyt naamloze vennootschap
+ - etablissementen franz colruyt
+
+total:
+ - total sa
+ - total marketing services
+ - total raffinage marketing
+
+nissan:
+ - nissan chemical
+ - nissan chem
+ - nissan chemical
+ - nissan motor co
+ - nissan chem ind
+
+applied:
+ - applied research associates
+ - applied integrated systems
+
+keihin:
+ - keihin
+ - keihin thermal technology
+
+long:
+ - long robert
+ - long hill co
+
+takahashi:
+ - takahashi keisei:kk
+ - takahashi seisakusho:kk
+
+hyperion:
+ - hyperion energy ug (haftungsbeschränkt)
+ - hyperion energy ug
+
+combined:
+ - combined energies
+ - combined powerdba hyperlight energy
+ - combined power dba hyperlight energy
+
+cohen:
+ - cohen lawrence
+ - cohen clark emerson
+
+société:
+ - société industrielle de chauffage (sic)
+ - société muller & cie
+
+rinnai:
+ - rinnai
+ - rinnai america
+
+fläktgroup:
+ - fläktgroup sweden ab
+ - fläktgroup deutschland gmbh
+
+seagate:
+ - seagate technolgy
+ - seagate technology
+
+saint-gobain:
+ - saint-gobain centre de recherches et d'etudes europeen
+ - saint-gobain centre de recherches et d'etudes européen
+ - saint-gobain ceramics and plastics
+ - saint-gobain ceramics & plastics
+ - saint-gobain centre de recherches et d' etudes europeen
+ - saint-gobain centre de recherches et d''etudes européen
+
+friedrich:
+ - friedrich thomas
+ - friedrich - alexander - universität erlangen - nuernberg
+
+armstrong:
+ - armstrong world
+ - armstrong william
+
+bosch:
+ - bosch termoteknik isitma ve klima sanayi ticaret anonim sirketi
+ - bosch termotecnologia sa
+
+magna:
+ - magna international
+ - magna powertrain bad homburg gmbh
+
+sanden:
+ - sanden holdings
+ - sanden automotive climate systems
+ - sanden
+
+sf:
+ - sf motors
+ - sf motors
+
+liebherr-hausgerate:
+ - liebherr-hausgerate lienz gmbh
+ - liebherr-hausgerate ochsenhausen gmbh
+
+orbital:
+ - orbital engineering
+ - orbital atk
+
+alcoa:
+ - alcoa usa
+ - alcoa
+
+liebherr-hausgeräte:
+ - liebherr-hausgeräte lienz gmbh
+ - liebherr-hausgeräte ochsenhausen gmbh
+
+thyssenkrupp:
+ - thyssenkrupp ag
+ - thyssenkrupp millservices & systems gmbh
+ - thyssenkrupp uhde gmbh
+
+soreq:
+ - soreq nucelar research center
+ - soreq nuclear research center
+
+solarjoule:
+ - solarjoule ip holding
+ - solarjoule ip holdings
+
+konica:
+ - konica minolta
+ - konica minolta business technologies
+
+fábrica:
+ - fábrica nacional de moneda y timbre—real casa de la moneda
+ - fábrica nacional de moneda y timbre - real casa de la moneda
+
+ulrich:
+ - ulrich brunner gmbh
+ - ulrich dreizler
+
+apt:
+ - apt gmbh—angewandte physik & technologie
+ - apt gmbh - angewandte physik & technologie
+
+aic:
+ - aic spólka akcyjna
+ - aic społka akcyjna
+
+miles:
+ - miles mark w
+ - miles mark
+
+tesla:
+ - tesla
+ - tesla motors
+
+wilson:
+ - wilson 247solar
+ - wilson solarpower
+
+kitagawa:
+ - kitagawa kogyo co
+ - kitagawa ind co
+
+l''air:
+ - l''air liquide societe anonyme pour l''etude et l''exploitation des procedes georges claude
+ - l''air liquide société anonyme pour l''etude et l''exploitation des procédés georges claude
+
+hunter:
+ - hunter alaistair gordon laurence
+ - hunter alastair gordon laurence
+ - hunter douglas
+
+climatewell:
+ - climatewell ab
+ - climatewell ab (publ)
+
+alstom:
+ - alstom transport technologies
+ - alstom technology
+
+shin:
+ - shin nippon denko kk
+ - shin sang hun
+ - shin nippon air technol co
+
+trimet:
+ - trimet aluminium se
+ - trimet aluminium ag
+
+daiwa:
+ - daiwa tech:kk
+ - daiwa house industry co
+
+geo:
+ - geo power system:kk
+ - geo power system co
+ - geo system kk
+
+matsushita:
+ - matsushita kohei
+ - matsushita yasuharu
+
+wolters:
+ - wolters laurens g j
+ - wolters floris
+
+hyosung:
+ - hyosung tnc
+ - hyosung
+
+skanska:
+ - skanska sverige ab
+ - skanska svergie ab
+
+bsh:
+ - bsh hausgeräte gmbh
+ - bsh hausgeraete gmbh
+ - bsh bosch und siemens hausgeräte gmbh
+
+
+ingersoll-rand:
+ - ingersoll-rand
+ - ingersoll-rand industrial us
+
+big sun:
+ - big sun energy technology
+ - big sun energy technology in
+
+egg:
+ - egg technology srl
+ - egg robert
+
+cave piers:
+ - cave piers st john spencer galliard
+ - cave piers st john spencer
+
+j eberspecher:
+ - j eberspecher gmbh & co kg
+ - j eberspächer gmbh & co kg
+ - j eberspaecher gmbh & co kg
+
+aix-marseille:
+ - aix-marseille université
+ - aix-marseille universite
+
+gebr:
+ - gebr kemper gmbh + co kg metallwerke
+ - gebr bruns gmbh
+
+suez:
+ - suez groupe
+ - suez environnement
+
+abengoa:
+ - abengoa solar
+ - abengoa solar new technologies sa
+
+poeriowayne :
+ - poerio wayne martin
+ - poerio wayne
+
+electricité de france:
+ - electricité de france
+ - electricité de france (edf)
+
+egypt nanotechnology center:
+ - egypt nanotechnology center
+ - egypt nanotechnology center (egnc)
+
+cebcon:
+ - cebcon technologies gmbh
+ - cebcon gmbh
+
+brightleaf:
+ - brightleaf technologies inorated
+ - brightleaf technologies
+
+
+matsushita;:
+ - matsushita; kohei
+ - matsushita; yashuharu
+ - matsushita; yasuharu
+
+yandex:
+ - yandex europe ag
+ - yandex
+
+isentropic:
+ - isentropic
+ - isentropic
+
+azbil:
+ - azbil
+ - azbil
+
+enea:
+ - enea agenzia nazionale per le nuove tecnologie l'energia e lo sviluppo economico sostenibilie
+ - enea - agenzia nazionale per le nuove tecnologie l'energia e lo sviluppo economico sostenibile
+ - enea - casaccia research centre
+ - enea agencia nazionale per le nuove tecnologie l' energia e lo sviluppo economico sostenibile
+ - enea - casaccia research center
+
+stamicarbon:
+ - stamicarbon bv
+ - stamicarbon bv acting under the name of mt innovation center
+
+enel:
+ - enel ingegneria e ricerca spa
+ - enel ingegneria e innovazione spa
+
+grundfos:
+ - grundfos holding a/s
+ - grundfos management a/s
+
+sasaki:
+ - sasaki manpachi
+ - sasaki norimasa
+ - sasaki soichi
+
+theranos:
+ - theranos ip
+ - theranos
+
+taizhou:
+ - taizhou dajiang industry co
+ - taizhou dajiang ind co
+
+arranged:
+ - arranged bvba
+ - arranged bv
+
+nano-vision:
+ - nano-vision tech co
+ - nano-vision tech
+
+alfa:
+ - alfa laval orate ab
+ - alfa laval packinox
+
+fraunhofer:
+ - fraunhofer gesellschaft zur förderung der angewandten forschung ev
+ - fraunhofer usa
+
+lunos:
+ - lunos luftungstechnik gmbh fur raumluftsysteme
+ - lunos lüftungstechnik gmbh für raumluftsysteme
+
+halla:
+ - halla visteon climate control
+ - halla climate control
+
+stn:
+ - stn supertravelnet oy
+ - stn super travel net oy
+
+hubert:
+ - hubert langheinz kaltetechnik
+ - hubert langheinz evl
+ - hubert langheinz kältetechnik
+
+atecan:
+ - atecan andaluci sl
+ - atecan andalucia sl
+
+delphi:
+ - delphi technologies
+ - delphi automotive systems luxembourg sa
+
+lucht:
+ - lucht lhz elektroheizung gmbh&co kg
+ - lucht lhz elektroheizung gmbh & co kg
+
+marques:
+ - marques dias pinto joão paulo
+ - marques dias pinto pedro emanuel
+
+inventec:
+ - inventec (pudong) technology
+ - inventec
+
+triboix:
+ - triboix alain
+ - triboix ariane
+ - triboix fabrice
+
+omi:
+ - omi mining co
+ - omi mining co
+
+yokohama:
+ - yokohama national univ
+ - yokohama rubber co :the
+
+constellium:
+ - constellium france
+ - constellium neuf-brisach
+
+schindler:
+ - schindler bernd
+ - schindler german
+
+babcock-hitachi:
+ - babcock-hitachi co
+ - babcock-hitachi kabushiki kaisha
+
+ganz:
+ - ganz renate
+ - ganz johann
+
+inter:
+ - inter :kk
+ - inter co
+
+futaeda:
+ - futaeda takaharu
+ - futaeda yoshie
+
+doosan:
+ - doosan babcock
+ - doosan power systems
+
+ziegler:
+ - ziegler klausdieter
+ - ziegler maximilian
+
+bluelagoon:
+ - bluelagoon technologies
+ - bluelagoon energy technologies
+
+kools:
+ - kools beau
+ - kools max
+
+b/e:
+ - b/e earospace
+ - b/e aerospace
+
+bruwer:
+ - bruwer frederick johannes (jr)
+ - bruwer frederick johannes
+
+kaeser:
+ - kaeser kompressoren ag
+ - kaeser kompressoren se
+ - kaeser kompressoren gmbh
+
+solvis:
+ - solvis gmbh & co kg
+ - solvis gmbh
+
+woodward:
+ - woodward
+ - woodward governor
+
+mcalister:
+ - mcalister technologies
+ - mcalister roy edward
+
+kermi:
+ - kermi gmbh
+ - kermi system gmbh
+
+soterna:
+ - soterna s coop
+ - soterna scoop
+
+shinnar:
+ - shinnar meir
+ - shinnar shlomo
+
+thüringisches:
+ - thüringisches institut für textil- und kunststoff- forschung ev
+ - thüringisches institut für textil- und kunststoff-forschung ev
+
+cool:
+ - cool energy
+ - cool or cosy energy technology pty
+
+
